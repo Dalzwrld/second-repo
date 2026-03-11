@@ -1,0 +1,12 @@
+# Second Repository
+
+Below are the steps I took to create this file:
+
+1. I listed the current folders using ls
+2. I then used cd ft17 and cd mod1 to mark the location to create this file
+3. Then I created it using mkdir and named it second-repo
+4. I confirmed the file had been created using ls
+5. I used git init to 
+
+After creation, I tracked it using Git using these steps:
+1. 
