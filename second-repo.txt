@@ -1,6 +1,6 @@
 #Second Repository
 
-##Below are the steps I took to create this folder:
+Below are the steps I took to create this folder:
 1. I listed the current folders using ls
 2. I then used cd ft17 and cd mod1 to mark the location to create this folder
 3. Then I created it using mkdir and named it second-repo
@@ -11,7 +11,7 @@
 8. Finally, I opened the folder in vs code using code .
 
 
-##After creation, I tracked it using Git and pushed it to GitHub through these steps:
+After creation, I tracked it using Git and pushed it to GitHub through these steps:
 1. I staged the modified files using git add .
 2. Then I used git status to check their current state in the remote repo, which showed that they hadn't been committed yet
 3. I used git commit -m "feat: add second-repo.txt" to save the changes into my local repo through a message (m) that describes the updates made.
@@ -20,7 +20,7 @@
 6. Then I pushed the current local repo with the given instructions
 
 
-##Whenever I needed to make updates, I followed these steps:
+Whenever I needed to make updates, I followed these steps:
 1. After changing texts, I would stage the modifications using git add .
 2. Then I checked the repo's current state using git status
 3. Then I saved the changes by committing using git commit -m "feat: add second-repo.txt"
